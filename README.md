@@ -12,7 +12,7 @@ Right now, I’m strengthening my skills around:
 - ML/AI concepts from a data perspective  
 - Building pipelines that are simple, traceable, and scalable  
 
-I believe good engineering is quiet, well-reasoned, and grounded in fundamentals and I’m here to keep learning, performin, refining, and improving.
+I believe good engineering is quiet, well-reasoned, and grounded in fundamentals and I’m here to keep learning, preforming, refining, and improving.
 
 
 
