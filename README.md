@@ -1,6 +1,6 @@
 ## 🙏 About Me  
 
-I’m an Aspiring Data Engineer with a growing interest in ML/AI and cloud-based data systems. I don’t chase buzzwords; I focus on understanding how things actually work—from fundamentals to real-world implementation.
+I’m an Aspiring Data Engineer with a growing interest in ML/AI and cloud-based data systems. I don’t chase buzzwords; I focus on understanding how things actually work from fundamentals to real-world implementation.
 
 I enjoy breaking down complex systems, tracing problems back to their assumptions and data flow, and learning through iteration and failure. Broken pipelines teach me more than working ones.
 
