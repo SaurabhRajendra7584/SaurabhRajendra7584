@@ -4,7 +4,7 @@ I’m an Aspiring Data Engineer with a growing interest in ML/AI and cloud-based
 
 I enjoy breaking down complex systems, tracing problems back to their assumptions and data flow, and learning through iteration and failure. Broken pipelines teach me more than working ones.
 
-That habit has shaped an analytical, systems-oriented mindset. I like unwrapping complexity into smaller, explainable parts, then rebuilding them in a cleaner and more reliable way. I’m opportunistic in learning—open to new tools and ideas, but careful about depth over noise.
+That habit has shaped an analytical, systems-oriented mindset. I like unwrapping complexity into smaller, explainable parts, then rebuilding them in a cleaner and more reliable way. I’m opportunistic in learning open to new tools and ideas, but careful about depth over noise.
 
 
 Right now, I’m strengthening my skills around:
