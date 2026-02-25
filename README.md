@@ -1,10 +1,12 @@
 ## 🙏 About Me  
 
-I’m an Aspiring Data Engineer with a growing interest in ML/AI and cloud-based data systems. I don’t chase buzzwords; I focus on understanding how things actually work from fundamentals to real-world implementation.
+II build end-to-end data and machine learning systems that take raw, unstructured data through the full lifecycle—from ingestion and validation to transformation, modeling, and deployment. My focus is on designing reliable data pipelines and converting structured data into predictive, decision-driven systems.
 
-I enjoy breaking down complex systems, tracing problems back to their assumptions and data flow, and learning through iteration and failure. Broken pipelines teach me more than working ones.
+On the engineering side, I work with ETL workflows, data cleaning, validation logic, and structured transformations using Python and SQL. I am building Azure-based batch data pipelines, applying cloud data engineering principles to ensure scalable processing and consistent data flow across systems.
 
-That habit has shaped an analytical, systems-oriented mindset. I like unwrapping complexity into smaller, explainable parts, then rebuilding them in a cleaner and more reliable way. I’m opportunistic in learning open to new tools and ideas, but careful about depth over noise.
+On the modeling side, I have developed customer churn prediction systems framed as cost-sensitive classification problems. I engineered tenure and billing-behavior features, handled class imbalance through threshold tuning to optimize recall, and evaluated Logistic Regression and Random Forest models using cross-validation before deploying inference APIs with FastAPI.
+
+My stack includes Python, SQL, Pandas, Scikit-learn, FastAPI, Power BI, and Azure data services. I am pursuing roles in Machine Learning Engineering or Applied Data Science where I can own the complete data-to-decision pipeline and build production-ready predictive systems.
 
 
 Right now, I’m strengthening my skills around:
