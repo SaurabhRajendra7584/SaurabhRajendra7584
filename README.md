@@ -1,6 +1,6 @@
 ## 🙏 About Me  
 
-II build end-to-end data and machine learning systems that take raw, unstructured data through the full lifecycle—from ingestion and validation to transformation, modeling, and deployment. My focus is on designing reliable data pipelines and converting structured data into predictive, decision-driven systems.
+I build end-to-end data and machine learning systems that take raw, unstructured data through the full lifecycle—from ingestion and validation to transformation, modeling, and deployment. My focus is on designing reliable data pipelines and converting structured data into predictive, decision-driven systems.
 
 On the engineering side, I work with ETL workflows, data cleaning, validation logic, and structured transformations using Python and SQL. I am building Azure-based batch data pipelines, applying cloud data engineering principles to ensure scalable processing and consistent data flow across systems.
 
